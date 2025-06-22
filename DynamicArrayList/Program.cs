@@ -20,9 +20,9 @@
             list.Insert(2, 10);
             list.RemoveAt(4);
             list.Insert(0, 99);
-            
-            //99 1 2 10 4 5
 
+
+            
             foreach(int i in list)
             {
                 Console.Write(i);

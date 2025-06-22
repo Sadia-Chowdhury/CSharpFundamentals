@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSumUsingDictionary", "Tw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicArrayList", "DynamicArrayList\DynamicArrayList.csproj", "{FA09E0A8-5750-47F9-BE75-85F119F542C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixRowColDiagonalSum", "MatrixRowColDiagonalSum\MatrixRowColDiagonalSum.csproj", "{33B91A45-86BB-4458-9341-FBD5850437EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{FA09E0A8-5750-47F9-BE75-85F119F542C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA09E0A8-5750-47F9-BE75-85F119F542C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA09E0A8-5750-47F9-BE75-85F119F542C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B91A45-86BB-4458-9341-FBD5850437EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B91A45-86BB-4458-9341-FBD5850437EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B91A45-86BB-4458-9341-FBD5850437EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B91A45-86BB-4458-9341-FBD5850437EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
