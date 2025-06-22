@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyCount", "Frequency
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSumUsingDictionary", "TwoSum\TwoSumUsingDictionary.csproj", "{7E914758-375E-4EB8-9483-3EFCF90902DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicArrayList", "DynamicArrayList\DynamicArrayList.csproj", "{FA09E0A8-5750-47F9-BE75-85F119F542C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7E914758-375E-4EB8-9483-3EFCF90902DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E914758-375E-4EB8-9483-3EFCF90902DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E914758-375E-4EB8-9483-3EFCF90902DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA09E0A8-5750-47F9-BE75-85F119F542C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA09E0A8-5750-47F9-BE75-85F119F542C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA09E0A8-5750-47F9-BE75-85F119F542C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA09E0A8-5750-47F9-BE75-85F119F542C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
