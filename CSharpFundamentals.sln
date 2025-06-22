@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountWordsInString", "Count
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseStringWithoutBuiltInFunc", "ReverseStringWithoutBuiltInFunc\ReverseStringWithoutBuiltInFunc.csproj", "{2EAA4368-7F16-4CE8-8EE1-B5043F6C1D23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyCount", "FrequencyCount\FrequencyCount.csproj", "{92235D09-873E-467D-A115-A85E46F8D98D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2EAA4368-7F16-4CE8-8EE1-B5043F6C1D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EAA4368-7F16-4CE8-8EE1-B5043F6C1D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EAA4368-7F16-4CE8-8EE1-B5043F6C1D23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92235D09-873E-467D-A115-A85E46F8D98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92235D09-873E-467D-A115-A85E46F8D98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92235D09-873E-467D-A115-A85E46F8D98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92235D09-873E-467D-A115-A85E46F8D98D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
