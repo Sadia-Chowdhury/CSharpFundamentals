@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentClassReport", "Stude
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bankAccountSystem", "bankAccountSystem\bankAccountSystem.csproj", "{16634F84-1C4C-4AAF-82D1-4B5F5F38A949}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetAreaOfShapes", "GetAreaOfShapes\GetAreaOfShapes.csproj", "{A4E8DC77-4F30-465B-8535-31DEFFECC42E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{16634F84-1C4C-4AAF-82D1-4B5F5F38A949}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16634F84-1C4C-4AAF-82D1-4B5F5F38A949}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16634F84-1C4C-4AAF-82D1-4B5F5F38A949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E8DC77-4F30-465B-8535-31DEFFECC42E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E8DC77-4F30-465B-8535-31DEFFECC42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E8DC77-4F30-465B-8535-31DEFFECC42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E8DC77-4F30-465B-8535-31DEFFECC42E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

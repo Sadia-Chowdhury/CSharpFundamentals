@@ -78,7 +78,9 @@ namespace bankAccountSystem
 
         public void GetBalance(ref double balanceRef)
         {
-            Console.WriteLine($"Balance is : {balance}Tk.");
+            balanceRef = balance;
+
+            Console.WriteLine($"Balance is : {balanceRef}Tk.");
         }
 
     }
