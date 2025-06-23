@@ -23,8 +23,8 @@
 
 
             Student student1 = new Student(name, id, marks);
-            int avg = student1.PrintAvg(marks);
-            student1.PrintReportCard(name, id, marks, avg);
+            int avg = student1.PrintAvg();
+            student1.PrintReportCard();
         }
     }
 }

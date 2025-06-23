@@ -20,10 +20,10 @@ namespace StudentClassReport
             this.Marks = marks;
         }
 
-        public void PrintReportCard(string name, string ID, List<int> Marks, int avg)
+        public void PrintReportCard()
 
         {
-            Console.WriteLine($"Student's Name : {name}");
+            Console.WriteLine($"Student's Name : {Name}");
             Console.WriteLine($"Student's ID : {ID}");
             Console.Write("Marks: ");
 
@@ -32,10 +32,11 @@ namespace StudentClassReport
                 Console.Write(Marks[i]);
                 Console.Write(" ");
             }
-            Console.WriteLine($"Student's Aveerage : {avg}");
+            Console.WriteLine();
+            Console.WriteLine($"Student's Aveerage : {PrintAvg()}");
 
         }
-        public int PrintAvg(List<int> marks)
+        public int PrintAvg()
         {
             return Marks.Sum()/Marks.Count;
         }
