@@ -9,9 +9,9 @@ namespace StudentClassReport
 {
     internal class Student
     {
-        string Name { get; set; }
-        string ID { get; set; }
-        List<int> Marks { get; set; }
+        public string Name { get; set; }
+        private string ID { get; set; }
+        private List<int> Marks { get; set; }
 
         public Student(string name, string id, List<int>marks)
         {
