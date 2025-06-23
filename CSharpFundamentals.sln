@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bankAccountSystem", "bankAc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetAreaOfShapes", "GetAreaOfShapes\GetAreaOfShapes.csproj", "{A4E8DC77-4F30-465B-8535-31DEFFECC42E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeSalarymanagement", "EmployeeSalarymanagement\EmployeeSalarymanagement.csproj", "{378E9BA2-0FCA-4AFE-A40F-FDFA79AAC8EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{A4E8DC77-4F30-465B-8535-31DEFFECC42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4E8DC77-4F30-465B-8535-31DEFFECC42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4E8DC77-4F30-465B-8535-31DEFFECC42E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{378E9BA2-0FCA-4AFE-A40F-FDFA79AAC8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378E9BA2-0FCA-4AFE-A40F-FDFA79AAC8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378E9BA2-0FCA-4AFE-A40F-FDFA79AAC8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378E9BA2-0FCA-4AFE-A40F-FDFA79AAC8EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
